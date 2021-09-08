@@ -6,6 +6,7 @@ import recipify from "../image/project_thumbnail/recipify.png"
 import tasktracker from "../image/project_thumbnail/tasktracker.png"
 import portfolio from "../image/project_thumbnail/portfolio.png"
 import gitsearch from "../image/project_thumbnail/gitsearch.png"
+import reactivemeals from "../image/project_thumbnail/reactivemeals.png"
 
 
 const data_projects = [
@@ -47,6 +48,14 @@ const data_projects = [
         name: 'CanvaShoot',
         desc: 'An UFO shooting game.',
         tech: 'HTML canvas & Javascript'
+    },
+
+    {
+        src:  reactivemeals,
+        link: 'https://reactivemeals-yaduveergopal.netlify.app/',
+        name: 'ReactiveMeals',
+        desc: 'A simulation of food ordering application',
+        tech: 'React'
     },
 
     {
