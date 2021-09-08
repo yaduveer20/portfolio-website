@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9107c364.chunk.css",
+    "main.js": "/static/js/main.6fefcf44.chunk.js",
+    "main.js.map": "/static/js/main.6fefcf44.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.931e61bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.931e61bc.js.map",
+    "static/css/2.6f69b1b7.chunk.css": "/static/css/2.6f69b1b7.chunk.css",
+    "static/js/2.7c3d3433.chunk.js": "/static/js/2.7c3d3433.chunk.js",
+    "static/js/2.7c3d3433.chunk.js.map": "/static/js/2.7c3d3433.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6f69b1b7.chunk.css.map": "/static/css/2.6f69b1b7.chunk.css.map",
+    "static/css/main.9107c364.chunk.css.map": "/static/css/main.9107c364.chunk.css.map",
+    "static/js/2.7c3d3433.chunk.js.LICENSE.txt": "/static/js/2.7c3d3433.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/back2.15a7c8af.jpg",
+    "static/media/canvashoot.537629bf.png": "/static/media/canvashoot.537629bf.png",
+    "static/media/diamondhands.28d7f253.png": "/static/media/diamondhands.28d7f253.png",
+    "static/media/fitnesslog.7c40f275.png": "/static/media/fitnesslog.7c40f275.png",
+    "static/media/gitsearch.8ac0097c.png": "/static/media/gitsearch.8ac0097c.png",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/minibanker.ec8ccf7a.png": "/static/media/minibanker.ec8ccf7a.png",
+    "static/media/portfolio.ba0dfd8a.png": "/static/media/portfolio.ba0dfd8a.png",
+    "static/media/profile.38db120f.jpg": "/static/media/profile.38db120f.jpg",
+    "static/media/recipify.0b4017fe.png": "/static/media/recipify.0b4017fe.png",
+    "static/media/tasktracker.101af237.png": "/static/media/tasktracker.101af237.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.931e61bc.js",
+    "static/css/2.6f69b1b7.chunk.css",
+    "static/js/2.7c3d3433.chunk.js",
+    "static/css/main.9107c364.chunk.css",
+    "static/js/main.6fefcf44.chunk.js"
+  ]
+}
