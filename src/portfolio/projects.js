@@ -11,9 +11,9 @@ import gitsearch from "../image/project_thumbnail/gitsearch.png"
 const data_projects = [
     {
         src:  portfolio,
-        link: 'https://recipify-yaduveergopal.netlify.app/',
+        link: 'https://gopalyaduveerkhatri-portfolio.netlify.app/',
         name: 'Portfolio',
-        desc: 'My portofolio contaning my infromation and projects I have worked on.',
+        desc: 'My portofolio containing my information and live projects.',
         tech: 'React'
     },
 
