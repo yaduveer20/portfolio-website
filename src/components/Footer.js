@@ -1,16 +1,5 @@
 import React from 'react';
 import {Link} from 'react-scroll';
-import {
-  FacebookShareButton,
-  FacebookIcon,
-  TwitterShareButton,
-  TwitterIcon,
-  RedditShareButton,
-  RedditIcon,
-  LinkedinShareButton,
-  LinkedinIcon
-
-} from "react-share";
 
 const Footer = () => {
   return (

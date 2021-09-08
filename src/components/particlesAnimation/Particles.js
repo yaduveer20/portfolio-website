@@ -1,6 +1,4 @@
-import { init } from 'emailjs-com'
 import React, { useRef, useEffect } from 'react'
-import { animateScroll } from 'react-scroll'
 
 const Particles = () => {
     const canvasRef = useRef(null)
@@ -124,7 +122,7 @@ const Particles = () => {
                     const xDist = particles[i].x - particles[j].x
                     const yDist = particles[i].y - particles[j].y
                     const distance = getDistance(xDist, yDist)
-                    if (distance < (canvas.height / 120) * (canvas.width / 120)) {
+                    if (distance < (canvas.height / 110) * (canvas.width / 110)) {
                         opacity -= 0.0001
                         ctx.beginPath()
                         ctx.moveTo(particles[i].x, particles[i].y)
